@@ -1,0 +1,13 @@
+*pycache*
+log*/
+
+.vscode/
+unimals_100
+
+output/*
+*.egg-info
+
+data_single_robot/
+distilled_policy/
+eval/
+expert_data/

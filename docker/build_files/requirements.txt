@@ -1,0 +1,6 @@
+pyyaml
+lxml
+gym==0.17.1
+networkx
+tensorboard
+matplotlib
